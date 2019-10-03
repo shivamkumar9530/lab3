@@ -36,9 +36,21 @@
     <Content Include="package.json" />
     <Content Include="public\stylesheets\main.css" />
     <Content Include="README.md" />
+    <Content Include="views\AgyaRani.pug">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="views\index.pug" />
     <Content Include="views\layout.pug" />
     <Content Include="views\error.pug" />
+    <Content Include="views\Pankaj.pug">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\Shivam.pug">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\SukhdevSingh.pug">
+      <SubType>Code</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />
